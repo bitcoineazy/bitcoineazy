@@ -8,7 +8,16 @@ I am Matvey Tugolukov, currently pursuing a bachelor's degree majoring in applie
 [![Telegram Badge](https://img.shields.io/badge/-@axelenvy-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/axelenvy "Contact on Telegram")
 [![Gmail Badge](https://img.shields.io/badge/-bitcoineazy@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bitcoineazy@gmail.com "Connect via Email")
 
-![Matvey's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitcoineazy&show_icons=true&theme=dracula)
+
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://github-readme-stats.vercel.app/api?username=bitcoineazy&show_icons=true&theme=dracula">
+  </a>
+</h2>
+
+![Matvey's GitHub stats](https://activity-graph.herokuapp.com/graph?username=bitcoineazy&bg_color=1F222E&color=ffffff&line=11ff04&point=#FFFFFF&hide_border=true)
+
+
 ## :computer: Things i code with
 
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat&logo=Python)
