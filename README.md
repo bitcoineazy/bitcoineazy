@@ -11,11 +11,12 @@ I am Matvey Tugolukov, currently pursuing a bachelor's degree majoring in applie
 
 <h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://github-readme-stats.vercel.app/api?username=bitcoineazy&show_icons=true&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api?username=bitcoineazy&show_icons=true&theme=algolia&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bitcoineazy&theme=algolia&hide_border=true">
   </a>
 </h2>
 
-![Matvey's GitHub stats](https://activity-graph.herokuapp.com/graph?username=bitcoineazy&bg_color=1F222E&color=ffffff&line=11ff04&point=#FFFFFF&hide_border=true)
+![Matvey's GitHub stats](https://activity-graph.herokuapp.com/graph?username=bitcoineazy&bg_color=050F2C&color=00AEFF&line=2DDE98&point=#FFFFFF&hide_border=true)
 
 
 ## :computer: Things i code with
