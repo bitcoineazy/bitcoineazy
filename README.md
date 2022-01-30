@@ -7,6 +7,7 @@ I am Matvey Tugolukov, currently pursuing a bachelor's degree majoring in applie
 
 [![Telegram Badge](https://img.shields.io/badge/-@axelenvy-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/axelenvy "Contact on Telegram")
 [![Gmail Badge](https://img.shields.io/badge/-bitcoineazy@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bitcoineazy@gmail.com "Connect via Email")
+![Visits](https://komarev.com/ghpvc/?username=bitcoineazy&label=Profile%20views&color=0e75b6&style=flat)
 
 <details>
   <summary>:scroll: <b>GitHub stats</b></summary>
