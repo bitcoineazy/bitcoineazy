@@ -1,5 +1,5 @@
 ##  👨‍💻 Whoami
-I am Matvey Tugolukov, currently pursuing a bachelor's degree majoring in applied informatics from [The Financial University](http://www.fa.ru/) at Moscow  
+I am Matvey Tugolukov, currently pursuing a bachelor's degree majoring in applied informatics from The Financial University at Moscow  
 +  :octocat: Always open to collaborating on projects and innovative/disruptive ideas
 + 📫 Feel free to connect with me here:<br>
 
