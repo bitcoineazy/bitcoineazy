@@ -18,7 +18,7 @@ I am Matvey Tugolukov, currently pursuing a bachelor's degree majoring in applie
 </details>
 
 ## 🤔 What I'm Interested In
-Currently, I'm exploring the exciting world of DevOps and learning about the latest tools and technologies to build and deploy applications more efficiently. I'm also fascinated by the power of neural networks and deep learning and have been working on a few projects to gain hands-on experience in this field.
+Currently, I'm exploring the exciting world of DevOps and learning about the latest tools and technologies to build and deploy applications more efficiently. I'm also fascinated by the power of neural networks and deep learning and have been working on a few projects to gain hands-on experience in this field. Furthermore, delving deeper into blockchain technologies and their potential to build secure and decentralized applications has always piqued my curiosity.
 
 ## 🚀 On My Learning Horizon
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
