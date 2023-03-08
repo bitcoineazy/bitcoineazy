@@ -16,7 +16,7 @@ I am Matvey Tugolukov, currently pursuing a bachelor's degree majoring in applie
   </h2>
 </details>
 
-## 🔨 What I'm Working On
+## 🤔 What I'm Interested In
 Currently, I'm exploring the exciting world of DevOps and learning about the latest tools and technologies to build and deploy applications more efficiently. I'm also fascinated by the power of neural networks and deep learning and have been working on a few projects to gain hands-on experience in this field.
 
 ## 🔧 Technologies & Tools
