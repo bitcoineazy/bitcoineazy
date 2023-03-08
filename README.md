@@ -16,16 +16,16 @@ I am Matvey Tugolukov, currently pursuing a bachelor's degree majoring in applie
   </h2>
 </details>
 
-## 🤔 What I'm Interested In
+## 🔨 What I'm Working On
 Currently, I'm exploring the exciting world of DevOps and learning about the latest tools and technologies to build and deploy applications more efficiently. I'm also fascinated by the power of neural networks and deep learning and have been working on a few projects to gain hands-on experience in this field.
 
 ## 🔧 Technologies & Tools
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/Django-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=04343f&color=1797b3)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-336791?style=flat&logo=docker)
