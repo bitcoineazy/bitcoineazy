@@ -6,7 +6,7 @@ I am Matvey Tugolukov, currently pursuing a bachelor's degree majoring in applie
 [![Gmail Badge](https://img.shields.io/badge/-bitcoineazy@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bitcoineazy@gmail.com "Connect via Email")
 
 <details>
-  <summary>:scroll: <b>GitHub stats</b></summary>
+  <summary>:scroll: <b>GitHub Stats</b></summary>
   <h2 align="center">
     <a href="https://git.io/typing-svg">
       <img src="https://github-readme-stats.vercel.app/api?username=bitcoineazy&show_icons=true&theme=algolia&hide_border=true">
@@ -15,6 +15,9 @@ I am Matvey Tugolukov, currently pursuing a bachelor's degree majoring in applie
     </a>
   </h2>
 </details>
+
+## 🤔 What I'm Interested In
+Currently, I'm exploring the exciting world of DevOps and learning about the latest tools and technologies to build and deploy applications more efficiently. I'm also fascinated by the power of neural networks and deep learning and have been working on a few projects to gain hands-on experience in this field.
 
 ## 🔧 Technologies & Tools
 
