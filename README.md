@@ -1,5 +1,5 @@
 ##  👨‍💻 Whoami
-I am Matvey Tugolukov, currently pursuing a bachelor's degree majoring in applied informatics from The Financial University at Moscow  
+I am Matvey Tugolukov, currently pursuing a Master's degree in Cloud DevOps Engineering at ITMO University. I hold a Bachelor's degree in Applied Informatics from The Financial University in Moscow. 
 +  :octocat: Always open to collaborating on projects and innovative/disruptive ideas
 + 📫 Feel free to connect with me here:<br>
 
